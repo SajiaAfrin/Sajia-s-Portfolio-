@@ -1,1 +1,1 @@
-![Banner](.assets/img/banner.jpg)
+![Banner](./assets/img/banner.jpg)
